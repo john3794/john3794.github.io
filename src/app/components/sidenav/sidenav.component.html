@@ -1,0 +1,26 @@
+<mat-sidenav-container (backdropClick)="close()" (scroll)="onSideNavScroll($event)">
+
+    <!-- inside sidenav -->
+    <mat-sidenav #sidenav (keydown.escape)="close()" disableClose>
+        <!--
+            <p><button mat-button (click)="close()">close</button></p> 
+        -->
+        <p><button mat-button (click)="close()">close</button></p> 
+        <p><button mat-button (click)="close()">close</button></p> 
+        <p><button mat-button (click)="close()">close</button></p> 
+        <p><button mat-button (click)="close()">close</button></p> 
+        <p><button mat-button (click)="close()">close</button></p> 
+        <p><button mat-button (click)="close()">close</button></p> 
+        <p><button mat-button (click)="close()">close</button></p> 
+    </mat-sidenav>
+    
+    <!-- outside sidenav i.e. content -->
+    <mat-sidenav-content>
+        <!--
+            <p><button mat-button (click)="sidenav.open()">Open</button></p>
+        -->
+
+        <router-outlet></router-outlet>
+    </mat-sidenav-content>
+    
+</mat-sidenav-container>
