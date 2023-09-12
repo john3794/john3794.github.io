@@ -1,0 +1,192 @@
+# Translation of Themes - Hitchcock in German
+# This file is distributed under the same license as the Themes - Hitchcock package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-08-03 00:35:39+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: de\n"
+"Project-Id-Version: Themes - Hitchcock\n"
+
+#. Theme Name of the plugin/theme
+msgid "Hitchcock"
+msgstr "Hitchcock"
+
+#. Description of the plugin/theme
+msgid "Hitchcock is a minimal portfolio theme for designers, photographers and other creatives. It features a beautiful responsive design, a social icon menu, Jetpack infinite scroll, custom accent color, custom header image, support for the gallery post format, the option to always show post preview titles, editor styling and much more. Demo: http://www.andersnoren.se/themes/hitchcock/"
+msgstr "Hitchcock ist ein minimalistisches Portfolio-Theme für Designer, Fotografen und andere Kreative. Es bietet ein schönes, responsives Design, ein Menü für Social-Media mit Icons, Infinite-Scrollen mit Jetpack, individuelle Einstellungsmöglichkeiten für Akzentfarbe und Header-Bild, Unterstützung für das Beitragsformat „Galerie“, Vorschau im Editor und vieles mehr. Demo: http://www.andersnoren.se/themes/hitchcock/"
+
+#: functions.php:495
+msgid "Theme Options"
+msgstr "Theme Optionen"
+
+#: functions.php:542
+msgid "Check to always show the titles in the post previews."
+msgstr "Markieren, um die Titel immer in der Vorschau anzuzeigen."
+
+#: functions.php:541
+msgid "Show Preview Titles"
+msgstr "Vorschau Titel anzeigen"
+
+#: functions.php:498
+msgid "Customize the theme settings for Hitchcock."
+msgstr "Theme-Einstellungen für Hitchcock individuell anpassen."
+
+#: single.php:104
+msgid "Previous"
+msgstr "Zurück"
+
+#: single.php:94 single.php:104
+msgid "Post"
+msgstr "Beitrag"
+
+#: single.php:94
+msgid "Next"
+msgstr "Weiter"
+
+#: search.php:50
+msgid "No results. Try again, would you kindly?"
+msgstr "Kein Ergebnisse. Würdest du es freundlicherweise nochmal versuchen?"
+
+#: single.php:71
+msgid "In"
+msgstr "In"
+
+#: page.php:62 single.php:128
+msgid "We couldn't find any posts that matched your query. Please try again."
+msgstr "Wir konnten keine Beiträge finden, die deiner Abfrage entsprechen. Bitte probiere es nochmal."
+
+#: search.php:9 search.php:37
+msgid "Search Results"
+msgstr "Suchergebnisse"
+
+#: page.php:48
+msgid "Edit Page"
+msgstr "Seite bearbeiten"
+
+#: index.php:17
+msgid "Page %s of %s"
+msgstr "Seite %s von %s"
+
+#: page.php:40 single.php:55
+msgid "Pages:"
+msgstr "Seiten:"
+
+#: header.php:47 searchform.php:2
+msgid "Search Form"
+msgstr "Suchformular"
+
+#: functions.php:557
+msgid "Accent Color"
+msgstr "Akzentfarbe"
+
+#: functions.php:468
+msgid "Your comment is awaiting moderation."
+msgstr "Dein Kommentar wird derzeit moderiert."
+
+#: functions.php:457
+msgid "Reply"
+msgstr "Antwort"
+
+#: functions.php:440
+msgid "Post Author"
+msgstr "Autor der Seiten"
+
+#: functions.php:422 functions.php:464
+msgid "Edit"
+msgstr "Überarbeiten"
+
+#: functions.php:422
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:55
+msgid "Social Menu"
+msgstr "Social-Media-Menü"
+
+#: functions.php:54
+msgid "Primary Menu"
+msgstr "Primäres Menü"
+
+#: footer.php:4
+msgid "Theme by"
+msgstr "Thema von"
+
+#: content.php:9
+msgid "Sticky"
+msgstr "Angeheftet"
+
+#: comments.php:84
+msgid "Leave a Reply"
+msgstr "Antworten"
+
+#: comments.php:65
+msgid "Newer"
+msgstr "neuesten"
+
+#: comments.php:41
+msgid "Pingback"
+msgid_plural "Pingbacks"
+msgstr[0] "Pingback"
+msgstr[1] "Pingbacks"
+
+#: comments.php:59
+msgid "Older"
+msgstr "ältesten"
+
+#: comments.php:21 comments.php:94
+msgid "Comment"
+msgid_plural "Comments"
+msgstr[0] "Kommentar"
+msgstr[1] "Kommentare"
+
+#: archive.php:33
+msgid "Archive"
+msgstr "Archiv"
+
+#: archive.php:28
+msgid "Author"
+msgstr "Autor"
+
+#: archive.php:24
+msgid "Tag"
+msgstr "Schlagwort"
+
+#: archive.php:20
+msgid "Category"
+msgstr "Kategorie"
+
+#: archive.php:16
+msgid "Year"
+msgstr "Jahr"
+
+#: archive.php:12
+msgid "Month"
+msgstr "Monat"
+
+#: archive.php:8
+msgid "Date"
+msgstr "Datum"
+
+#: 404.php:19
+msgid "It seems like you have tried to open a page that doesn't exist. It could have been deleted, moved, or it never existed at all. You are welcome to search for what you are looking for with the form below."
+msgstr "Scheinbar hast du eine Seite aufgerufen, die nicht existiert. Sie könnte gelöscht oder verschoben worden sein – oder hat nie existiert. Gerne kannst du die nachfolgende Suchfunktion nutzen, um die gewünschten Inhalte zu finden."
+
+#: 404.php:11
+msgid "Error 404"
+msgstr "Inhalt nicht gefunden (Systemfehler 404)"
+
+#. Author of the plugin/theme
+msgid "Anders Norén"
+msgstr "Anders Norén"
+
+#. Author URI of the plugin/theme
+msgid "http://www.andersnoren.se"
+msgstr "http://www.andersnoren.se"
+
+#. Theme URI of the plugin/theme
+msgid "http://www.andersnoren.se/teman/hitchcock-wordpress-theme/"
+msgstr "http://www.andersnoren.se/teman/hitchcock-wordpress-theme/"

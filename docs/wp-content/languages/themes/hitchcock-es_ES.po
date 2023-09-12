@@ -1,0 +1,200 @@
+# Translation of Themes - Hitchcock in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Hitchcock package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-06-22 16:32:25+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Hitchcock\n"
+
+#. Theme Name of the plugin/theme
+msgid "Hitchcock"
+msgstr "Hitchcock"
+
+#. Description of the plugin/theme
+msgid "Hitchcock is a minimal portfolio theme for designers, photographers and other creatives. It features a beautiful responsive design, a social icon menu, Jetpack infinite scroll, custom accent color, custom header image, support for the gallery post format, the option to always show post preview titles, editor styling and much more. Demo: http://www.andersnoren.se/themes/hitchcock/"
+msgstr "Hitchcock es un tema de porfolio minimalista para diseñadores, fotógragos y cualquier tipo de creativo. Destaca un bonito diseño adaptable, menú social con iconos, scroll infinito de Jetpack, color de acento personalizado, imagen de cabecera personalizada, compatibilidad con formatos de entrada de galería, editor de estilos,... y mucho más.  Demo: http://www.andersnoren.se/themes/hitchcock/"
+
+#: functions.php:516
+msgid "Scales the logo to half its uploaded size, making it sharp on high-res screens."
+msgstr "Escala el logotipo a la mitad del tamaño al que se ha subido, haciéndolo nítido en pantallas de alta resolución."
+
+#: functions.php:515
+msgid "Retina logo"
+msgstr "Logo retina"
+
+#: functions.php:541
+msgid "Show Preview Titles"
+msgstr "Mostrar títulos de vista previa"
+
+#: functions.php:495
+msgid "Theme Options"
+msgstr "Opciones del tema"
+
+#: functions.php:542
+msgid "Check to always show the titles in the post previews."
+msgstr "Marca para mostrar siempre los títulos en las vistas previas de las entradas."
+
+#: functions.php:498
+msgid "Customize the theme settings for Hitchcock."
+msgstr "Personaliza los ajustes del tema Hitchcock."
+
+#: single.php:104
+msgid "Previous"
+msgstr "Atrás"
+
+#: single.php:94 single.php:104
+msgid "Post"
+msgstr "Publicación"
+
+#: single.php:94
+msgid "Next"
+msgstr "próximo"
+
+#: single.php:71
+msgid "In"
+msgstr "Entrada"
+
+#: search.php:50
+msgid "No results. Try again, would you kindly?"
+msgstr "No hay resultados. Puedes intentarlo de nuevo."
+
+#: search.php:9 search.php:37
+msgid "Search Results"
+msgstr "Resultados de búsqueda"
+
+#: page.php:62 single.php:128
+msgid "We couldn't find any posts that matched your query. Please try again."
+msgstr "No hemos encontrado ninguna entrada relacionada con tu búsqueda. Por favor, inténtalo de nuevo."
+
+#: page.php:48
+msgid "Edit Page"
+msgstr "Editar página"
+
+#: page.php:40 single.php:55
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: index.php:17
+msgid "Page %s of %s"
+msgstr "Página %s de %s"
+
+#: header.php:47 searchform.php:2
+msgid "Search Form"
+msgstr "Formulario de búsqueda"
+
+#: functions.php:557
+msgid "Accent Color"
+msgstr "Color de énfasis"
+
+#: functions.php:468
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está esperando ser moderado."
+
+#: functions.php:457
+msgid "Reply"
+msgstr "Respuesta"
+
+#: functions.php:440
+msgid "Post Author"
+msgstr "Autor de artículo"
+
+#: functions.php:422 functions.php:464
+msgid "Edit"
+msgstr "Editor"
+
+#: functions.php:55
+msgid "Social Menu"
+msgstr "Menú Social"
+
+#: functions.php:422
+msgid "Pingback:"
+msgstr "Pingback: "
+
+#: functions.php:54
+msgid "Primary Menu"
+msgstr "Menú Primario"
+
+#: footer.php:4
+msgid "Theme by"
+msgstr "Tema de"
+
+#: content.php:9
+msgid "Sticky"
+msgstr "Pegajoso"
+
+#: comments.php:84
+msgid "Leave a Reply"
+msgstr "Dejar una contestacion"
+
+#: comments.php:65
+msgid "Newer"
+msgstr "más recientes"
+
+#: comments.php:59
+msgid "Older"
+msgstr "más antiguos"
+
+#: comments.php:41
+msgid "Pingback"
+msgid_plural "Pingbacks"
+msgstr[0] "Pingback"
+msgstr[1] "Pingbacks"
+
+#: archive.php:33
+msgid "Archive"
+msgstr "Archivo"
+
+#: comments.php:21 comments.php:94
+msgid "Comment"
+msgid_plural "Comments"
+msgstr[0] "Comentario"
+msgstr[1] "Comentarios"
+
+#: archive.php:28
+msgid "Author"
+msgstr "Autor"
+
+#: archive.php:24
+msgid "Tag"
+msgstr "Etiqueta"
+
+#: archive.php:20
+msgid "Category"
+msgstr "Categoria"
+
+#: archive.php:16
+msgid "Year"
+msgstr "Año"
+
+#: archive.php:12
+msgid "Month"
+msgstr "Mes"
+
+#: archive.php:8
+msgid "Date"
+msgstr "Fecha"
+
+#: 404.php:19
+msgid "It seems like you have tried to open a page that doesn't exist. It could have been deleted, moved, or it never existed at all. You are welcome to search for what you are looking for with the form below."
+msgstr "Parece que has intentado abrir una página que no existe, o tal vez,  haya sido borrada o movida. Puede que encuentres lo que buscas usando el formulario de abajo."
+
+#: 404.php:11
+msgid "Error 404"
+msgstr "Error 404 "
+
+#. Author of the plugin/theme
+msgid "Anders Norén"
+msgstr "Anders Norén"
+
+#. Author URI of the plugin/theme
+msgid "http://www.andersnoren.se"
+msgstr "http://www.andersnoren.se"
+
+#. Theme URI of the plugin/theme
+msgid "http://www.andersnoren.se/teman/hitchcock-wordpress-theme/"
+msgstr "http://www.andersnoren.se/teman/hitchcock-wordpress-theme/"
